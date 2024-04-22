@@ -10,6 +10,8 @@ Currently an **online editor developer**, **learning English** and maintain [JS 
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" alt="nestjs" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg"></code><code><img height="20" alt="vuejs" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg"></code><code><img height="20" alt="mongodb" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"></code>
 
 ![js-to-ts](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/AKclown.swagger-to-typescript?label=js-to-ts)
+![gbkill](https://img.shields.io/npm/d18m/gbkill?label=gbkill)
+
 <!-- 
 https://profilinator.rishav.dev/ 
 -->
