@@ -1,7 +1,7 @@
 ### Hi there 👋
 **Hello  I'm AKclown**   
 “一缕阳光、保持热爱、万事如意”  
-Currently an **online editor developer**, **learning English** and maintain [JS TO TS](https://github.com/AKclown/js-to-ts), [GBKILL](https://github.com/AKclown/gbkill), [coding](https://github.com/AKclown/coding)
+Currently an **online editor developer**, **learning English** and maintain [JS TO TS](https://github.com/AKclown/js-to-ts), [GBKILL](https://github.com/AKclown/gbkill), [CODING](https://github.com/AKclown/coding)
 
 `Recent plans `
 ```
